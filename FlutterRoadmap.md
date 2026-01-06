@@ -1,5 +1,4 @@
 # Highly Subjective Roadmap to Flutter Development
-by Oleksandr Leushchenko (@olexale)
 
 
 ## Basics
@@ -205,4 +204,4 @@ You have a responsibility to advise your clients on what is possible and what is
 
 ## The End
 
-Refer to [flutter_roadmap](https://github.com/olexale/flutter_roadmap) for the latest version and links.
+Refer to [flutter_roadmap](https://github.com/mcodevs/flutter_roadmap) for the latest version and links.
